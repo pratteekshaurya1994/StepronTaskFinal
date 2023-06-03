@@ -23,18 +23,8 @@ This command will build and launch the app on your connected device or emulator.
 
 1. Open the App on your device.
 
-2. On the main screen, you will see a button labeled "". Tap on the button.
+2. On the main screen, you will see a button labeled "Add". Tap on the button.
 
-3. The app will then retrieve all the images on your device and display them in a gallery view.
+3. It will then take you to a screen where you have fill the form along with an image
 
-4. Swipe left or right to browse through the images.
-
-## Acknowledgements
-
-The React Native Image Gallery App was developed by [Pratteek Shaurya](https://github.com/pratteekshaurya1994). Special thanks to the [React Native community](https://github.com/facebook/react-native) for their valuable resources and support.
-
-## Contact
-
-If you have any question or need any clarity, feel free to contact me on pratteek.shaurya1994@gmail.com.
-
-### Enjoy browsing through you photos in an organised and clean way
+4. Click on "Save" to save the details

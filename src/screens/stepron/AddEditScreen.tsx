@@ -229,7 +229,7 @@ const AddEditScreen = (props: any) => {
                           }
                           handleSubmit();
                         }}
-                        title={'Proceed'}
+                        title={'Save'}
                         textStyle={{
                           fontSize: 20,
                           fontFamily: FontConfig.primary.bold,
