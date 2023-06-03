@@ -1,72 +1,40 @@
-# :space_invader: React Native Template TypeScript
+# React Native Stepron Task
 
-<p>
-  <a href="https://github.com/react-native-community/react-native-template-typescript/actions/workflows/npm-publish.yml">
-    <img alt="Build Status" src="https://github.com/react-native-community/react-native-template-typescript/actions/workflows/npm-publish.yml/badge.svg" />
-  </a>
-  <a href="https://github.com/react-native-community/react-native-template-typescript#readme">
-    <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
-  </a>
-  <a href="https://github.com/react-native-community/react-native-template-typescript/graphs/commit-activity">
-    <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
-  </a>
-  <a href="https://github.com/react-native-community/react-native-template-typescript/blob/master/LICENSE">
-    <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
-  </a>
-</p>
+This app allows you to add and delete info of user in a list view format
 
-> Clean and minimalist React Native template for a quick start with TypeScript.
+## **Setting up the development environment**
 
-## :star: Features
+Follow React Native CLI Setup
+https://reactnative.dev/docs/environment-setup
 
-- Elegant usage directly within the [React Native CLI](https://github.com/react-native-community/cli)
-- Consistent with the default React Native template
-- Minimal additional dependencies
+## Running Application
 
-## :arrow_forward: Usage
+1. Clone the repo
 
-```sh
-npx react-native init MyApp --template react-native-template-typescript
-```
+2. Install dependencies with `yarn install`
 
-### Usage with older versions of React Native
+3. Start the dev server with `react-native start`
 
-#### e.g. `react-native@0.69.x`
+4. Start local build with `react-native run-android` or `react-native run-ios` depending on your device
 
-```sh
-npx react-native init MyApp --template react-native-template-typescript@6.11.9
-```
+This command will build and launch the app on your connected device or emulator.
 
-See the below table to find out which version of the template to use.
+## Usage
 
-#### React Native <=> Template Version
+1. Open the App on your device.
 
-| React Native | Template |
-| ------------ | -------- |
-| 0.70         | 6.12.\*  |
-| 0.69         | 6.11.\*  |
-| 0.68         | 6.10.\*  |
-| 0.67         | 6.9.\*   |
-| 0.66         | 6.8.\*   |
-| 0.65         | 6.7.\*   |
-| 0.64         | 6.6.\*   |
-| 0.63         | 6.5.\*   |
-| 0.62         | 6.4.\*   |
-| 0.61         | 6.3.\*   |
-| 0.60         | 6.2.\*   |
+2. On the main screen, you will see a button labeled "". Tap on the button.
 
-## :warning: React Native CLI
+3. The app will then retrieve all the images on your device and display them in a gallery view.
 
-This template only works with the new CLI. Make sure you have uninstalled the legacy `react-native-cli` first (`npm uninstall -g react-native-cli`) for the below command to work. If you wish to not use `npx`, you can also install the new CLI globally (`npm i -g @react-native-community/cli` or `yarn global add @react-native-community/cli`).
+4. Swipe left or right to browse through the images.
 
-If you tried the above and still get the react-native-template-react- native-template-typescript: Not found error, please try adding the `--ignore-existing` flag to [force npx to ignore](https://github.com/npm/npx#description) any locally installed versions of the CLI and use the latest.
+## Acknowledgements
 
-Further information can be found here: https://github.com/react-native-community/cli#about
+The React Native Image Gallery App was developed by [Pratteek Shaurya](https://github.com/pratteekshaurya1994). Special thanks to the [React Native community](https://github.com/facebook/react-native) for their valuable resources and support.
 
-## :computer: Contributing
+## Contact
 
-Contributions are very welcome. Please check out the [contributing document](CONTRIBUTING.md).
+If you have any question or need any clarity, feel free to contact me on pratteek.shaurya1994@gmail.com.
 
-## :bookmark: License
-
-This project is [MIT](LICENSE) licensed.
+### Enjoy browsing through you photos in an organised and clean way
