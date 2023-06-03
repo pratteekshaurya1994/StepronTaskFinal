@@ -18,13 +18,3 @@ https://reactnative.dev/docs/environment-setup
 4. Start local build with `react-native run-android` or `react-native run-ios` depending on your device
 
 This command will build and launch the app on your connected device or emulator.
-
-## Usage
-
-1. Open the App on your device.
-
-2. On the main screen, you will see a button labeled "Add". Tap on the button.
-
-3. It will then take you to a screen where you have fill the form along with an image
-
-4. Click on "Save" to save the details
