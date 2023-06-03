@@ -1,0 +1,637 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/lato/Lato-Black.ttf",
+      "sha1": "5fd35255dfd38b179c80db42e1b9d40b0d05e0b3"
+    },
+    {
+      "path": "src/assets/fonts/lato/Lato-BlackItalic.ttf",
+      "sha1": "1bd4d9fbeaa6059b16f91f6195f4fc849a852712"
+    },
+    {
+      "path": "src/assets/fonts/lato/Lato-Bold.ttf",
+      "sha1": "d67fee08c79a82ce375ab9629ae5a903da8bb321"
+    },
+    {
+      "path": "src/assets/fonts/lato/Lato-BoldItalic.ttf",
+      "sha1": "2bf1b50c9b2173944aec0662d16701f0964440f2"
+    },
+    {
+      "path": "src/assets/fonts/lato/Lato-Italic.ttf",
+      "sha1": "ebf006602bcfc0467d29735fdf3481bb6121860e"
+    },
+    {
+      "path": "src/assets/fonts/lato/Lato-Light.ttf",
+      "sha1": "e0132feb514feb3cdb745d479c71dee62ad37757"
+    },
+    {
+      "path": "src/assets/fonts/lato/Lato-LightItalic.ttf",
+      "sha1": "1d0caca7d22d04bc6b84d67937498a1be04ceedd"
+    },
+    {
+      "path": "src/assets/fonts/lato/Lato-Regular.ttf",
+      "sha1": "83dc5921761a7c3d1ee7badba3fc7e1e1f5ed803"
+    },
+    {
+      "path": "src/assets/fonts/lato/Lato-Thin.ttf",
+      "sha1": "7e750140b50f7f2c705cf2f67c559f2c267096c7"
+    },
+    {
+      "path": "src/assets/fonts/lato/Lato-ThinItalic.ttf",
+      "sha1": "15fe0f681d9ca679074add05c28e0899d49d8dc4"
+    },
+    {
+      "path": "src/assets/fonts/lato/OFL.txt",
+      "sha1": "dced1a41948e9968f9026cbc7ddabbf88e65423b"
+    },
+    {
+      "path": "src/assets/fonts/nutino/NunitoSans-Black.ttf",
+      "sha1": "4b813c20aa9923b044d3708bf9c9adfd4fc9e2a8"
+    },
+    {
+      "path": "src/assets/fonts/nutino/NunitoSans-BlackItalic.ttf",
+      "sha1": "9b49fe458c0e227db81c41f06ac710e67e0bc3da"
+    },
+    {
+      "path": "src/assets/fonts/nutino/NunitoSans-Bold.ttf",
+      "sha1": "eab9f3759631038e4e56993afdab3e66074a745c"
+    },
+    {
+      "path": "src/assets/fonts/nutino/NunitoSans-BoldItalic.ttf",
+      "sha1": "310f712e29b7d28621a5f1f1fc55a1140fadedd0"
+    },
+    {
+      "path": "src/assets/fonts/nutino/NunitoSans-ExtraBold.ttf",
+      "sha1": "ce87cb59ae5aadfa8d99b5957b98d4bd8e85c996"
+    },
+    {
+      "path": "src/assets/fonts/nutino/NunitoSans-ExtraBoldItalic.ttf",
+      "sha1": "9d05c4c0976e99aa25b5376580a929bafcdf1ba4"
+    },
+    {
+      "path": "src/assets/fonts/nutino/NunitoSans-ExtraLight.ttf",
+      "sha1": "bd09e2528ea3d09c40e22db6b4211ef3cde81649"
+    },
+    {
+      "path": "src/assets/fonts/nutino/NunitoSans-ExtraLightItalic.ttf",
+      "sha1": "86f928085ee9d51a9b54d5b352c37cad2c55760f"
+    },
+    {
+      "path": "src/assets/fonts/nutino/NunitoSans-Italic.ttf",
+      "sha1": "52e8ab4fc0d9ca02b54536caaddf04e246f3e68a"
+    },
+    {
+      "path": "src/assets/fonts/nutino/NunitoSans-Light.ttf",
+      "sha1": "3a09593f6843696130290ee0602c73c56d55a278"
+    },
+    {
+      "path": "src/assets/fonts/nutino/NunitoSans-LightItalic.ttf",
+      "sha1": "29766de7cdbb2b57d588e18a4988631d109e5685"
+    },
+    {
+      "path": "src/assets/fonts/nutino/NunitoSans-Regular.ttf",
+      "sha1": "07b4c2b2a3db6c1b5b54b9b3c46cb713d65d9d63"
+    },
+    {
+      "path": "src/assets/fonts/nutino/NunitoSans-SemiBold.ttf",
+      "sha1": "b83505912d818c983a5afdaf3555bd6a6b2595a1"
+    },
+    {
+      "path": "src/assets/fonts/nutino/NunitoSans-SemiBoldItalic.ttf",
+      "sha1": "c621224fb7d2b2dd26a303ece24610ff0443c6d9"
+    },
+    {
+      "path": "src/assets/fonts/rubik/Rubik-Black.ttf",
+      "sha1": "cbba735b41cb77804aac759f680a735bb09fe26a"
+    },
+    {
+      "path": "src/assets/fonts/rubik/Rubik-BlackItalic.ttf",
+      "sha1": "574784659c9ad7e75481ad60bf197345ad43bdec"
+    },
+    {
+      "path": "src/assets/fonts/rubik/Rubik-Bold.ttf",
+      "sha1": "4fe7fe47c6f8de43e70cb3971444c912f0a4ef78"
+    },
+    {
+      "path": "src/assets/fonts/rubik/Rubik-BoldItalic.ttf",
+      "sha1": "4edb7f4026bceb3c957ddfc3f9f78b0882ad1a7f"
+    },
+    {
+      "path": "src/assets/fonts/rubik/Rubik-ExtraBold.ttf",
+      "sha1": "23f9292dd8bc780a2e7eca2de2757dddd37105c1"
+    },
+    {
+      "path": "src/assets/fonts/rubik/Rubik-ExtraBoldItalic.ttf",
+      "sha1": "06f5e93edd4f47969d56a5b0b67515a9d7376ca4"
+    },
+    {
+      "path": "src/assets/fonts/rubik/Rubik-Italic.ttf",
+      "sha1": "3db68ddb968a5a21fa0087bf1c74cd619f9d83cf"
+    },
+    {
+      "path": "src/assets/fonts/rubik/Rubik-Light.ttf",
+      "sha1": "678431fc67a5a64b669e4f020eb903e757802abd"
+    },
+    {
+      "path": "src/assets/fonts/rubik/Rubik-LightItalic.ttf",
+      "sha1": "4447c55993ff34b6dae86ed781fe727170a91f6f"
+    },
+    {
+      "path": "src/assets/fonts/rubik/Rubik-Medium.ttf",
+      "sha1": "bddd36a80219217168c50cc8f636f83a1f15c19f"
+    },
+    {
+      "path": "src/assets/fonts/rubik/Rubik-MediumItalic.ttf",
+      "sha1": "5e0749dbab706ca59c52b26cb625303db31dd5a5"
+    },
+    {
+      "path": "src/assets/fonts/rubik/Rubik-Regular.ttf",
+      "sha1": "9b073d791ff0fe0bcbfaac5dc1174443b4e310bb"
+    },
+    {
+      "path": "src/assets/fonts/rubik/Rubik-SemiBold.ttf",
+      "sha1": "9ff8f2eadc195737b6f398d51598127a056dc3c6"
+    },
+    {
+      "path": "src/assets/fonts/rubik/Rubik-SemiBoldItalic.ttf",
+      "sha1": "5fb5a4306a04849bd1794f26f95772087109e7ca"
+    },
+    {
+      "path": "src/assets/images/account_circle.svg",
+      "sha1": "5cf3b181886b7e11c73c0d30fb463a3b54e57fd1"
+    },
+    {
+      "path": "src/assets/images/activeMarker2x.png",
+      "sha1": "a37c08b42cc80c9f95bf86affe6940cfcee72473"
+    },
+    {
+      "path": "src/assets/images/AddCircleIcon.svg",
+      "sha1": "9b34b845d9fe8161538b0c2b474749e09b9c2c61"
+    },
+    {
+      "path": "src/assets/images/arrow.png",
+      "sha1": "7ade6729c509000e9c9ec39030c32dacae42e0bb"
+    },
+    {
+      "path": "src/assets/images/arrowBackIcon.svg",
+      "sha1": "16a06b9b1094f06a91651296b1bac05a570e7398"
+    },
+    {
+      "path": "src/assets/images/back.svg",
+      "sha1": "b6ea20f11ca8c3386e9fcdf256d44c1c69282e18"
+    },
+    {
+      "path": "src/assets/images/backArrow.svg",
+      "sha1": "963d8234b09d646573673a4d2535b989c72097aa"
+    },
+    {
+      "path": "src/assets/images/badge_icon_png.png",
+      "sha1": "5b496c7f6e19f1fa1a8d34ede24a4952c3f63924"
+    },
+    {
+      "path": "src/assets/images/Building.svg",
+      "sha1": "955d901992e4c8366b9ed2f5b3e9f2d4792b339a"
+    },
+    {
+      "path": "src/assets/images/calendarIcon.svg",
+      "sha1": "533e58c88dc4839e6459da9b067ef0e0d59095e0"
+    },
+    {
+      "path": "src/assets/images/CallIcon.svg",
+      "sha1": "4bb034a4b1d263a1862ff3ea27454d9f9285cdf2"
+    },
+    {
+      "path": "src/assets/images/CallIconLightGreen.svg",
+      "sha1": "ce4cab910bbf71b4c8f45899574fa8f151a57011"
+    },
+    {
+      "path": "src/assets/images/cameraIcon.svg",
+      "sha1": "94c298e0c1ca82b076b254079f44ed0511d80026"
+    },
+    {
+      "path": "src/assets/images/cameraIconLight.svg",
+      "sha1": "de50f6e2ff4d1a63b7ad51872557b0258bf33fea"
+    },
+    {
+      "path": "src/assets/images/cancelCircularIcon.svg",
+      "sha1": "184093a8bef4dee092326f8d73b84005bd44f195"
+    },
+    {
+      "path": "src/assets/images/check.svg",
+      "sha1": "8f57cf2b8a7e4d83cdd9941ccbd76b4798c1608d"
+    },
+    {
+      "path": "src/assets/images/CheckGradientIcon.svg",
+      "sha1": "cc9f12a35513d2b756deb8e1e5a2cdb57f41375e"
+    },
+    {
+      "path": "src/assets/images/clear.svg",
+      "sha1": "687afb9d185c752dbdf8b451a3485ad28ccb0a3b"
+    },
+    {
+      "path": "src/assets/images/Clock.svg",
+      "sha1": "76f4b9710040d98ba9780b2597bd9a135e9a476f"
+    },
+    {
+      "path": "src/assets/images/ClockFill.svg",
+      "sha1": "d4b796a2b4c719772c92637aaf6041dd67d35cb1"
+    },
+    {
+      "path": "src/assets/images/CloseIcon.svg",
+      "sha1": "a11cd2321d1693616a68dca9f30b2fe7668a62f8"
+    },
+    {
+      "path": "src/assets/images/CloseIconModal.svg",
+      "sha1": "39a69b07c7adc9cef99edf759939ac42f65f2416"
+    },
+    {
+      "path": "src/assets/images/CloseOrangeIcon.svg",
+      "sha1": "856ce69f65ca3ebe1640b09013c34f1b48e3f23a"
+    },
+    {
+      "path": "src/assets/images/datepicker.svg",
+      "sha1": "7f3d654f678d6d1dc0b4eb77c13d02d44f8e97c0"
+    },
+    {
+      "path": "src/assets/images/deleteOutline.svg",
+      "sha1": "cb1bb9719e07d26cc4d670610e0bb2506a37b6f6"
+    },
+    {
+      "path": "src/assets/images/deleteOutlineLight.svg",
+      "sha1": "abde92841534aa8e4b2e2b07d43f3c532d179598"
+    },
+    {
+      "path": "src/assets/images/displayPicture.png",
+      "sha1": "4bbe9914b506778f99adec5e697dd0ad4dce1ec0"
+    },
+    {
+      "path": "src/assets/images/DocumentPlaceholder.svg",
+      "sha1": "4774b04a1ffce92c49d862eb3adec2614577369b"
+    },
+    {
+      "path": "src/assets/images/docUploadIcon.svg",
+      "sha1": "cbcb22fac361906768785797fae8c51b808f5190"
+    },
+    {
+      "path": "src/assets/images/dropdown.png",
+      "sha1": "acdd4bc9c6036f58819a5b950e28add3762fa88f"
+    },
+    {
+      "path": "src/assets/images/EditIcon.svg",
+      "sha1": "9b565b043a724d36413b8fc5fcbc2447c13813fe"
+    },
+    {
+      "path": "src/assets/images/EmailIcon.svg",
+      "sha1": "f56142fcab0bf3b0e66b434753a3aa68b6c7df16"
+    },
+    {
+      "path": "src/assets/images/EmptyIconSVG.svg",
+      "sha1": "2d593bbb5f6a77d7e10722fa8d49604bde818dbc"
+    },
+    {
+      "path": "src/assets/images/error_outline.svg",
+      "sha1": "ac814057912c5f047ffca8ddfeb8cb250b7b3a89"
+    },
+    {
+      "path": "src/assets/images/eye-open.svg",
+      "sha1": "06eadfa57f736e924da673963b7289e3399d5f5b"
+    },
+    {
+      "path": "src/assets/images/EyeIcon.svg",
+      "sha1": "1f7af0044a955626184140d306dbec7473e8206a"
+    },
+    {
+      "path": "src/assets/images/fileIconShift.svg",
+      "sha1": "485d0530bf027b416762dff93ddb86e9e58a6e48"
+    },
+    {
+      "path": "src/assets/images/FindShift.svg",
+      "sha1": "e40101b98d4a80bf007a35414957ff8f7d141cca"
+    },
+    {
+      "path": "src/assets/images/headphoneIcon.svg",
+      "sha1": "8f8a2a56039c5345d6d46b49c3efa333426b5fdd"
+    },
+    {
+      "path": "src/assets/images/headphoneIconLight.svg",
+      "sha1": "5af306ab4494b790d61b75da4b4ef08f4cc4d859"
+    },
+    {
+      "path": "src/assets/images/Home.svg",
+      "sha1": "620801e44ff2d5c70ed80501a48adf291d13de77"
+    },
+    {
+      "path": "src/assets/images/HomeFill.svg",
+      "sha1": "1626306f89fed1db1984f2805cff103fbb223503"
+    },
+    {
+      "path": "src/assets/images/HorizontalLine.svg",
+      "sha1": "30cdd15e50b9175b165b4882bf4ecf5a09d909e1"
+    },
+    {
+      "path": "src/assets/images/Icon-Location.svg",
+      "sha1": "7161d6fac1b8c6b4e1850254d180ac82f0b7552f"
+    },
+    {
+      "path": "src/assets/images/IconAlert.svg",
+      "sha1": "3e46cc1e87c7b3718c14806544c467ce0f599076"
+    },
+    {
+      "path": "src/assets/images/IconBreakin.svg",
+      "sha1": "529bdc2f9d32986a15056e2b180381a228a226cd"
+    },
+    {
+      "path": "src/assets/images/IconBreakout.svg",
+      "sha1": "2ec7b3fc9e7c4c577e2a6d813c677f710d7488b8"
+    },
+    {
+      "path": "src/assets/images/IconCheckCircle.svg",
+      "sha1": "6fb50461f898e1c89c1db7b85d070bbb68140311"
+    },
+    {
+      "path": "src/assets/images/IconCheckIn.svg",
+      "sha1": "34b20aff856b1ba7802ffdfba76bfbf463bc1f23"
+    },
+    {
+      "path": "src/assets/images/IconDoubleCheck.svg",
+      "sha1": "dabe7af3d2e68d986605472f5e0ca412f0a2c6db"
+    },
+    {
+      "path": "src/assets/images/IconFilter.svg",
+      "sha1": "bf85c538480fa46b9ad6e963d66330507d585636"
+    },
+    {
+      "path": "src/assets/images/IconOverTime.svg",
+      "sha1": "99971d72a7a03477fdba00e3b70a2f5f8c7f8ab3"
+    },
+    {
+      "path": "src/assets/images/IconReloadCircel.svg",
+      "sha1": "75c2e4fd5815a12cba848fb9998f70bd2bac9787"
+    },
+    {
+      "path": "src/assets/images/IconSearch.svg",
+      "sha1": "b0ce23f831742db521fb9f2c320f992ae05515da"
+    },
+    {
+      "path": "src/assets/images/IconSlider.png",
+      "sha1": "461cd445d653e9dae38693ad5390a73885bdeb15"
+    },
+    {
+      "path": "src/assets/images/IconSlider1.png",
+      "sha1": "221fc7c15a69c8065b6f8c7472b7b85b724b2c4f"
+    },
+    {
+      "path": "src/assets/images/imageUploadIcon.svg",
+      "sha1": "3d75d6b3cbc14e914333d977cb938a90741daebd"
+    },
+    {
+      "path": "src/assets/images/Invoice.svg",
+      "sha1": "92edf26d97d99fa01ba190494e0fef0ebc431109"
+    },
+    {
+      "path": "src/assets/images/InvoiceFill.svg",
+      "sha1": "67f20597580b27f76c78d7c4a1fe885ecf0a6695"
+    },
+    {
+      "path": "src/assets/images/listIcon.svg",
+      "sha1": "17a088277e0bba795445368696a36662783e0b65"
+    },
+    {
+      "path": "src/assets/images/LocationIcon.svg",
+      "sha1": "0a9ce52fcb78be36d4311e513574d6f9e6175cbe"
+    },
+    {
+      "path": "src/assets/images/LocationIconBlack.svg",
+      "sha1": "2f25758dada3c7a620ffff6670e983d5ecd160d8"
+    },
+    {
+      "path": "src/assets/images/LocationIconLightGray.svg",
+      "sha1": "1c4a59f3a1af9db70bb21d953cd7d311140c1487"
+    },
+    {
+      "path": "src/assets/images/lock.svg",
+      "sha1": "196c95b2f3f8f2e15e54890d6672ca6d5c0da8ee"
+    },
+    {
+      "path": "src/assets/images/logo.png",
+      "sha1": "80d3dec6394129270148111b97dea2eab599c84f"
+    },
+    {
+      "path": "src/assets/images/logo.svg",
+      "sha1": "eabcc15d0c85c5c5a3d944c89cc4cf41debe6644"
+    },
+    {
+      "path": "src/assets/images/logoCrop.png",
+      "sha1": "26cf25ab57a87c5d0ddd582ff1db272366632cb1"
+    },
+    {
+      "path": "src/assets/images/logOutIcon.svg",
+      "sha1": "13da22d73ec08af9a4f1f83070d40dc32d685a37"
+    },
+    {
+      "path": "src/assets/images/mapIcon.svg",
+      "sha1": "ef3a0e00cc8ad523be75dcb57be4f0982e525e1c"
+    },
+    {
+      "path": "src/assets/images/marker-active.png",
+      "sha1": "b4a0bd97696a617d9e11bf4536bd4c26016ad84f"
+    },
+    {
+      "path": "src/assets/images/marker-active@2x.png",
+      "sha1": "886661cb975e75a0afe1377bce2e2aaf735395b0"
+    },
+    {
+      "path": "src/assets/images/marker-active@3x.png",
+      "sha1": "d04b29a3aa0a5a85951ad66792dd692230e07fa3"
+    },
+    {
+      "path": "src/assets/images/marker.png",
+      "sha1": "f3be7fb43ba8e7c5ed1a3c60905a553bc06bb675"
+    },
+    {
+      "path": "src/assets/images/marker@2x.png",
+      "sha1": "9e50c39cd0ab9e158923f457e2a8690a5ec88571"
+    },
+    {
+      "path": "src/assets/images/marker@3x.png",
+      "sha1": "6e368a6aac6800edad870a1a7f4c3b110c32b4e9"
+    },
+    {
+      "path": "src/assets/images/moonIcon.svg",
+      "sha1": "c6280ffd8eb0f2fede576c1d18bd2beeab1ca0f8"
+    },
+    {
+      "path": "src/assets/images/MoonLight.svg",
+      "sha1": "e49823da0ae748b8aefdd21baf769aa2b90d649c"
+    },
+    {
+      "path": "src/assets/images/navigation_black_24dp.svg",
+      "sha1": "479acc2c3f66e1e698c0b95ff896fb03557d2248"
+    },
+    {
+      "path": "src/assets/images/near_me.svg",
+      "sha1": "629c5382eb0acb40be6c58dccf2dad2c4853180a"
+    },
+    {
+      "path": "src/assets/images/newShiftStickerLarge.svg",
+      "sha1": "17cf9c8a4af3bed3310428593968f6ee88c10250"
+    },
+    {
+      "path": "src/assets/images/newShiftStickerSmall.svg",
+      "sha1": "6e7877209182698e27721b505d78d532900469fe"
+    },
+    {
+      "path": "src/assets/images/noReview.svg",
+      "sha1": "5644ff6668a5be23d9dcf647b3141620a71ac7a4"
+    },
+    {
+      "path": "src/assets/images/NoShiftAttandanceScreenImage.svg",
+      "sha1": "5b37d48a3942aa15e9dc4d91fe528c502881f9c2"
+    },
+    {
+      "path": "src/assets/images/open-timer.png",
+      "sha1": "974707e3a50bba7ad38ac5d33c7d0893c1815b97"
+    },
+    {
+      "path": "src/assets/images/OpenTimer.svg",
+      "sha1": "2a2597e28d794fec0a6042e330e3f30d1ecf5e05"
+    },
+    {
+      "path": "src/assets/images/password.svg",
+      "sha1": "ad09598745554799884c236335089656d5e771fa"
+    },
+    {
+      "path": "src/assets/images/placeholder.png",
+      "sha1": "af00b1ecf171f36a052bd0104667689fd8329b65"
+    },
+    {
+      "path": "src/assets/images/Profile.svg",
+      "sha1": "3740f9614ba95d0696f03fd8e5e71bf6db524bac"
+    },
+    {
+      "path": "src/assets/images/ProfileFill.svg",
+      "sha1": "88d9616d635fbdbc611da7237dc74cd9aa369ade"
+    },
+    {
+      "path": "src/assets/images/ProfileScreenEducationIcon.svg",
+      "sha1": "80a4645fd3b99df8073fc1779f4030fda8725c44"
+    },
+    {
+      "path": "src/assets/images/ProfileScreenExperienceIcon.svg",
+      "sha1": "52f03d220284f68fa59575292218256a1472a4d1"
+    },
+    {
+      "path": "src/assets/images/ProfileScreenExperienceIcon2.svg",
+      "sha1": "e9c9fcef35e011663f37c62df07eaa29d4d4c768"
+    },
+    {
+      "path": "src/assets/images/ProfileScreenMyDocumentIcon.svg",
+      "sha1": "ac0d95b60fb68d5695fdaa3ff56fe8f29a012ddd"
+    },
+    {
+      "path": "src/assets/images/ProfileScreenProfileIcon.svg",
+      "sha1": "809847f70c921e83487e253725c586f8584e2292"
+    },
+    {
+      "path": "src/assets/images/ProfileScreenReferenceIcon.svg",
+      "sha1": "956cc87068989a5cd5caecbed53601fb57db56a1"
+    },
+    {
+      "path": "src/assets/images/ProfileScreenViewBadgeIcon.svg",
+      "sha1": "deddcc7e2d286f166fb0445eb0c817ddab7f3dd2"
+    },
+    {
+      "path": "src/assets/images/ProfileScreenVolunteerIcon.svg",
+      "sha1": "548a3ff9f17b4eacef46be2c230caa82563349b1"
+    },
+    {
+      "path": "src/assets/images/reload.svg",
+      "sha1": "1959e072f525f876cbea2ac081d1b4f607166bc4"
+    },
+    {
+      "path": "src/assets/images/Search.png",
+      "sha1": "5ee16b290c0522c4f19aaac4d998f6973507cf53"
+    },
+    {
+      "path": "src/assets/images/shiftBackgroundImage.png",
+      "sha1": "3e8ee687c1b6e760eb690af96ba1420ea6f0e88c"
+    },
+    {
+      "path": "src/assets/images/shiftComponentImg1.png",
+      "sha1": "703b98345c249107ce7101262ef9eba3fd1b7168"
+    },
+    {
+      "path": "src/assets/images/shiftComponentImg2.png",
+      "sha1": "c4c28c276425193d1e0183bfdc0dee587a951b0a"
+    },
+    {
+      "path": "src/assets/images/shiftComponentImg3.png",
+      "sha1": "974707e3a50bba7ad38ac5d33c7d0893c1815b97"
+    },
+    {
+      "path": "src/assets/images/shiftComponentImg4.png",
+      "sha1": "c4f0da74ee4bf2116c096957100475fb03c14b79"
+    },
+    {
+      "path": "src/assets/images/shiftType.svg",
+      "sha1": "2b00e2309f5c9a5002fc11615b19ad22e9269056"
+    },
+    {
+      "path": "src/assets/images/SunGreen.svg",
+      "sha1": "0d094e0e1d9dfb48521b89e0a72f6cd21ba282f9"
+    },
+    {
+      "path": "src/assets/images/sunIcon.svg",
+      "sha1": "4f8967ab7d8ec9f69882bfcd5e9d265bfba72055"
+    },
+    {
+      "path": "src/assets/images/ThumpsUp.svg",
+      "sha1": "4c73bbfcc7ce1b0bba89ef71f87f6fb5f048dac7"
+    },
+    {
+      "path": "src/assets/images/upcomingShiftTimeIcon.svg",
+      "sha1": "9e42083be74793812aec2c0428005662f5fab7f8"
+    },
+    {
+      "path": "src/assets/images/uploadIcon.svg",
+      "sha1": "e44f035931d9affd1173681da223cff3c7f5e620"
+    },
+    {
+      "path": "src/assets/images/wallet.svg",
+      "sha1": "d2c279c9ce4c16b614dbf1cf8a490e6e48630c3d"
+    },
+    {
+      "path": "src/assets/images/warningIcon.png",
+      "sha1": "def12bd32fb4befc2ad905eaddd94b4bab1485fa"
+    },
+    {
+      "path": "src/assets/images/warningType.svg",
+      "sha1": "56fe7b36b8ce6f1141811bc228a7a16c3b7607e1"
+    },
+    {
+      "path": "src/assets/images/warningZoneGreen.svg",
+      "sha1": "e94430e8658bcbe00a15ae23b6e568a2e62bd317"
+    },
+    {
+      "path": "src/assets/images/warningZoneRed.svg",
+      "sha1": "9832ab07516d3e8d04ed75de47fe90a24260aa64"
+    },
+    {
+      "path": "src/assets/images/warningZoneYellow.svg",
+      "sha1": "f437250334cccb2990f939ea8c1e111794665a59"
+    },
+    {
+      "path": "src/assets/images/welcome-img1.png",
+      "sha1": "03cb932af914ce14c8d63d19675edf3b1805361f"
+    },
+    {
+      "path": "src/assets/lottie/emptyError.json",
+      "sha1": "00332689dd9f3f8a031eca014e036182446bae69"
+    },
+    {
+      "path": "src/assets/lottie/splash_screen.json",
+      "sha1": "050bcd1bc3df622ee2d1ba1fc8273a499cacfdb0"
+    }
+  ]
+}
